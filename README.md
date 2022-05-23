@@ -21,3 +21,5 @@ definir una función que tome como parámetro (w) la distancia entre 1 y 6 del n
 devuelva, luego de plantear el modelo y resolver, la distancia total óptima de acuerdo con el
 camino más corto entre 1 y 8, considerando como posible la nueva ruta. Responder el valor de
 la distancia recorrida total para valores de w de 10, 400,y 3000
+
+En el archivo function_103904.py se muestra la resolución de este ejercicio
